@@ -1,8 +1,7 @@
 # 🔐 Spring Boot User Management API
 
-A secure and scalable RESTful User Management API built with Spring Boot and Spring Security.
-It features user CRUD operations, role-based access control, password encryption, input validation, and global exception handling.
-The project integrates with a MySQL database and includes interactive API documentation powered by Swagger UI.
+A secure, scalable RESTful API for user management built with Spring Boot and Spring Security.
+This backend system supports full user account operations with robust authentication, role-based access control, input validation, and clean architecture—ideal for real-world applications.
 
 ---
 
