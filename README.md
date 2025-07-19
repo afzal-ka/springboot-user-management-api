@@ -1,7 +1,6 @@
 # 🔐 Spring Boot User Management API
 
-A secure, scalable RESTful API for user management built with Spring Boot and Spring Security.
-This backend system supports full user account operations with robust authentication, role-based access control, input validation, and clean architecture—ideal for real-world applications.
+A secure and scalable RESTful API for user management built with Spring Boot and Spring Security. Supports full user operations with role-based access control, input validation, MySQL integration, and clean architecture—ideal for real-world backend systems.
 
 ---
 
